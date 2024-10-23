@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AvocadoSoup/ReactApi/static/css/main.28d957dc.css",
-    "main.js": "/AvocadoSoup/ReactApi/static/js/main.f66dc993.js",
-    "static/js/453.ee5bd44a.chunk.js": "/AvocadoSoup/ReactApi/static/js/453.ee5bd44a.chunk.js",
-    "index.html": "/AvocadoSoup/ReactApi/index.html",
-    "main.28d957dc.css.map": "/AvocadoSoup/ReactApi/static/css/main.28d957dc.css.map",
-    "main.f66dc993.js.map": "/AvocadoSoup/ReactApi/static/js/main.f66dc993.js.map",
-    "453.ee5bd44a.chunk.js.map": "/AvocadoSoup/ReactApi/static/js/453.ee5bd44a.chunk.js.map"
+    "main.css": "/API/static/css/main.28d957dc.css",
+    "main.js": "/API/static/js/main.76b49441.js",
+    "static/js/453.ee5bd44a.chunk.js": "/API/static/js/453.ee5bd44a.chunk.js",
+    "index.html": "/API/index.html",
+    "main.28d957dc.css.map": "/API/static/css/main.28d957dc.css.map",
+    "main.76b49441.js.map": "/API/static/js/main.76b49441.js.map",
+    "453.ee5bd44a.chunk.js.map": "/API/static/js/453.ee5bd44a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28d957dc.css",
-    "static/js/main.f66dc993.js"
+    "static/js/main.76b49441.js"
   ]
 }
